@@ -1,2 +1,2 @@
 # rails-friend-project
-ruby
+Ruby
